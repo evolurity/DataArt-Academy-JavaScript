@@ -1,3 +1,4 @@
+//Конвертер валют. По неделям/месяцам
 "use strict";
 import "./style.css";
 const result = [];
